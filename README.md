@@ -2,10 +2,10 @@
  This repository contains code-along on the lectures from CSST 104 - Advanced Machine Learning.
 
 ## Table of Contents
-1. <a href="Simple-Linear-Regression/simple_linear_regression.ipynb">Simple Linear Regression</a>
-2. <a href="Multiple-Linear-Regression/multiple_linear_regression.ipynb">Multiple Linear Regression</a>
-3. <a href="Logistic-Regression/logistic_regression.ipynb">Logistic Regression</a>
-4. <a href="Time-Series-Analysis-Using-ARIMA-Model/time_series_analysis_using_arima.ipynb">Time Series Analysis Using ARIMA Model</a>
+1. <a href="Simple-Linear-Regression/simple_linear_regression.html">Simple Linear Regression</a>
+2. <a href="Multiple-Linear-Regression/multiple_linear_regression.html">Multiple Linear Regression</a>
+3. <a href="Logistic-Regression/logistic_regression.html">Logistic Regression</a>
+4. <a href="Time-Series-Analysis-Using-ARIMA-Model/time_series_analysis_using_arima.html">Time Series Analysis Using ARIMA Model</a>
 
 ## Lecture Overview
 1. [Simple Linear Regression](https://www.scribbr.com/statistics/simple-linear-regression/) is a statistical technique used in programming, particularly in data analysis and machine learning, to model the relationship between a dependent variable (usually denoted as 𝑦) and one independent variable (usually denoted as 𝑥). The goal is to fit a linear equation to the data points that best describes the relationship between the variables.
